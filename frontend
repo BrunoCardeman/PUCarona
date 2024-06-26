@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pucarona</title>
+    <link rel="stylesheet" href="/tela cadastro/style.css">
+</head>
+<body>
+    
+    <img class="imagem" src="/imagens/Marca.png"></img>
+    <div class="Cadastro">Cadastre-se</div>
+    <img class="imagem2" src="/imagens/usuario.png"></img> 
+    <input placeholder="Nome">
+    <input placeholder="Sobrenome">
+    <input placeholder="Email" type="email">
+    <input placeholder="Celular" type="tel">
+    <input placeholder="Senha" type="password">
+    <input placeholder="Confirme a senha" type="password">
+    <button>Criar conta</button>
+</html>
